@@ -17,6 +17,7 @@
     "country-list": "^2.3.0",
     "dotenv": "^16.5.0",
     "express": "^5.1.0",
+    "framer-motion": "^12.10.5",
     "i18next": "^22.4.10",
     "i18next-browser-languagedetector": "^7.1.0",
     "lucide-react": "^0.501.0",
@@ -28,6 +29,7 @@
     "react-dom": "^19.0.0",
     "react-i18next": "^12.2.0",
     "react-icons": "^5.5.0",
+    "react-phone-number-input": "^3.4.12",
     "react-router-dom": "^7.4.0",
     "use-debounce": "^10.0.4"
   },
